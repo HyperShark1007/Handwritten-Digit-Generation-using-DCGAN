@@ -1,2 +1,2 @@
 # Handwritten-Digit-Generation-using-DCGAN
-Implemented a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch to generate handwritten digit images. 
+Implemented a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch to generate handwritten digit images. Developed a generator to create realistic digit images and a discriminator to distinguish between real and fake images. Acquired hands-on experience in building and training deep learning models, enhancing skills in neural networks and PyTorch framework.
